@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          
+          submodules: recursive
       - uses: ./.github/actions/tgcf-past
         env:
           API_ID: ${{ secrets.API_ID }}
