@@ -4,6 +4,6 @@ description: Forward Telegram messages from source to destination using tgcf per
 
 runs:
   using: docker
-  image: Dockerfile
+  image: Dockerfile.min
   env:
     TGCF_MODE: past
