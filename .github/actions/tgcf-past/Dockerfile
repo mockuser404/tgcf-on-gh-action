@@ -1,3 +1,1 @@
-FROM aahnik/tgcf
-
-CMD tgcf --loud
+tgcf-remote/Dockerfile
