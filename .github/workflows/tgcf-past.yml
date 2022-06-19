@@ -3,7 +3,7 @@ name: tgcf-past
 on:
   workflow_dispatch: # run when triggered manually
   schedule:
-    - cron: 0 */6 * * *
+    - cron: 14 3/6 * * *
     # for cron syntax see https://crontab.guru/
   
 
