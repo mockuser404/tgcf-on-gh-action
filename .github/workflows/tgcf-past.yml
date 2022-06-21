@@ -2,10 +2,11 @@ name: tgcf-past
 
 on:
   workflow_dispatch: # run when triggered manually
-  schedule:
-    - cron: 14 3/6 * * *
+  # schedule:
+    # - cron: 14 3/6 * * *
     # for cron syntax see https://crontab.guru/
-  
+    # cron sucks at accuracy, using cloudflare workers instead
+    # https://github.com/upptime/upptime/issues/42#issuecomment-840264035
 
 jobs:
   tgcf:
