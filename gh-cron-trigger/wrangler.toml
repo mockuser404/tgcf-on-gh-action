@@ -1,6 +1,3 @@
 name = "gh-cron-trigger"
 main = "src/index.js"
 compatibility_date = "2022-06-21"
-
-[triggers]
-crons = [ "0 */6 * * *" ]
