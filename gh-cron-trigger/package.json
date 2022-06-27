@@ -1,0 +1,12 @@
+{
+  "name": "gh-cron-trigger",
+  "version": "0.0.1",
+  "devDependencies": {
+    "wrangler": "2.0.14"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev --local",
+    "deploy": "wrangler publish"
+  }
+}
