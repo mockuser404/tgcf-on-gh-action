@@ -5,6 +5,11 @@ forwards:
   - -1001545223265
   offset: 373835
   end: 0
+- source: https://t.me/HazUploads
+  dest: 
+  - -1001757358469
+  offset: 25634
+  end: 0
 show_forwarded_from: false
 live:
   delete_sync: false
