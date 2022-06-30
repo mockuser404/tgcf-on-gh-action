@@ -16,6 +16,9 @@ forwards:
 - source: -1001287519485
   dest:
   - -1001525610648
+- source: 
+  dest: -1001374254200
+  - -1001167111219
 show_forwarded_from: false
 live:
   delete_sync: false
