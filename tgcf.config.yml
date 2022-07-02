@@ -3,22 +3,22 @@ forwards:
 - source: -1001526895831
   dest:
   - -1001545223265
-  offset: 387962
+  offset: 387999
   end: 0
 - source: https://t.me/HazUploads
   dest:
   - -1001757358469
-  offset: 29605
+  offset: 29606
   end: 0
 - source: -1001203918987
   dest:
   - -1001525610648
-  offset: 7234
+  offset: 7239
   end: 0
 - source: -1001287519485
   dest:
   - -1001525610648
-  offset: 10085
+  offset: 10090
   end: 0
 - source: -1001374254200
   dest:
