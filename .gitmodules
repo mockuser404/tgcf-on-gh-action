@@ -1,6 +1,3 @@
-[submodule ".github/actions/tgcf-past/tgcf-remote"]
-	path = .github/actions/tgcf-past/tgcf-remote
-	url = https://github.com/mockuser404/tgcf
 [submodule ".github/actions/tgcf-remote"]
 	path = .github/actions/tgcf-remote
 	url = https://github.com/mockuser404/tgcf
