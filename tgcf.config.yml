@@ -8,12 +8,12 @@ forwards:
 - source: -1001505984583
   dest:
   - -1001757358469
-  offset: 46960
+  offset: 46962
   end: 0
 - source: -1001233965525
   dest:
   - -1001206615337
-  offset: 1514493
+  offset: 1514497
   end: 0
 - source: -1001203918987
   dest:
