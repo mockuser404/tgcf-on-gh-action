@@ -13,7 +13,7 @@ forwards:
 - source: -1001233965525
   dest:
   - -1001206615337
-  offset: 1514814
+  offset: 1514816
   end: 0
 - source: -1001203918987
   dest:
@@ -28,7 +28,7 @@ forwards:
 - source: -1001374254200
   dest:
   - -1001167111219
-  offset: 728
+  offset: 730
   end: 0
 - source: -1001650101221
   dest:
